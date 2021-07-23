@@ -516,7 +516,7 @@ body{
     font-weight: 900;
     color:var(--primary-color);
     text-decoration: none;
-    word-break: word-break;
+    word-break: break-all;
 }
 
 .contact .info .social{
